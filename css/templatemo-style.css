@@ -889,6 +889,11 @@ http://www.templatemo.com/tm-515-eatery
     }
   }
 
+  @media screen and (max-width: 767px) {
+    .custom-navbar .navbar-nav.navbar-nav-first {
+      padding-top: 50px;
+    }
+  }
 
   @media only screen and (max-width: 1200px) {
     .about-info {
